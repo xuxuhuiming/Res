@@ -1,0 +1,7 @@
+{"Dormant_period": 0, "Early_leaf_development": 1, "End_of_leaf_development": 2, "leaf_colour_change_period": 3, "Leaf_drop_period": 4, "Leaf_maturity": 5, "Bud_burst_period": 6}
+
+
+
+
+
+
